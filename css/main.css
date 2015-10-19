@@ -2,3 +2,36 @@
 #container {
 	height:800px;
 }
+
+script {
+	margin-top: 200px;
+}
+
+.description {
+	font-size:12px;
+}
+
+#pink {
+	color: pink;
+}
+
+#blue {
+	color: blue;
+}
+
+#grey {
+	color: grey;
+}
+
+h1 {
+	text-align:center;
+}
+
+
+
+.table th, td {
+	padding:40px;
+	margin-right:400px;
+	text-align:left;
+	border: 1px solid;
+}
